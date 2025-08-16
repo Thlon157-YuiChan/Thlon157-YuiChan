@@ -9,4 +9,4 @@
 
 **Discord** : https://discord.gg/u9REFgCVxQ
 
-**YouTube** : https://www.youtube.com/@thlon351
+**YouTube** : https://www.youtube.com/channel/UCn8xo2k22gLmG6NDxccaU-Q
