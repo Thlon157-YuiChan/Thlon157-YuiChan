@@ -1,7 +1,7 @@
 # Hello!
 すろんでございます。MinecraftのModやらRobloxの車両やら作っています
 
-好きな言語: Java > JavaScript
+好きな言語: Java, PHP
 
 ## SNS等
 
