@@ -1,7 +1,7 @@
 # Hello!
-すろんでございます。MinecraftのModやらRobloxの車両やら作っています
+すろんです。
 
-好きな言語: Java, PHP
+好きな言語: Java, PHP, Golang
 
 ## Webサイト・SNS等
 
